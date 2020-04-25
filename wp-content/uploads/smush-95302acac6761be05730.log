@@ -1,0 +1,152 @@
+[2020-04-17 02:23:04 : INFO] - Re_Smush_It_Task with attachment ID : 5769, autocreated on : April 17, 2020 02:23:04 
+[2020-04-17 02:25:05 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:20 : INFO] - 
+ 
+[2020-04-17 02:28:20 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 02:28:20 +0000 on https://multiserviciosari.com 
+[2020-04-17 02:28:20 : INFO] - WP: 5.4 
+[2020-04-17 02:28:20 : INFO] - PHP: 7.4.4 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-04-17 02:28:20 : INFO] - MySQL: 5.7.28 
+[2020-04-17 02:28:20 : INFO] - WPLANG: es_ES 
+[2020-04-17 02:28:20 : INFO] - Server: Apache 
+[2020-04-17 02:28:20 : INFO] - Outbound connections: N 
+[2020-04-17 02:28:20 : INFO] - safe_mode: 0 
+[2020-04-17 02:28:20 : INFO] - max_execution_time: 50000 
+[2020-04-17 02:28:20 : INFO] - memory_limit: -1 (used: 98.1M | 101M) 
+[2020-04-17 02:28:20 : INFO] - multisite: N 
+[2020-04-17 02:28:20 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-04-17 02:28:20 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 02:28:20 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 02:28:20 
+[2020-04-17 02:28:20 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 02:28:20 : INFO] - Processing task with ID : 1239, and type 'smush' 
+[2020-04-17 02:28:20 : INFO] - Task with ID 1239 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-04-17 02:28:20 : INFO] - Processing task with ID : 1240, and type 'smush' 
+[2020-04-17 02:28:20 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:20 : INFO] - 90 
+[2020-04-17 02:28:21 : INFO] - Backing up the original image - 2019/11/identificador-de-llamadas-updraft-pre-smush-original.jpg 
+[2020-04-17 02:28:21 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:21 : INFO] - 90 
+[2020-04-17 02:28:22 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:22 : INFO] - 90 
+[2020-04-17 02:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:23 : INFO] - 90 
+[2020-04-17 02:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:23 : INFO] - 90 
+[2020-04-17 02:28:24 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:24 : INFO] - 90 
+[2020-04-17 02:28:25 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:25 : INFO] - 90 
+[2020-04-17 02:28:25 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:25 : INFO] - 90 
+[2020-04-17 02:28:26 : INFO] - Re_Smush_It_Task with attachment ID : 5770, autocreated on : April 17, 2020 02:25:05 
+[2020-04-17 02:28:26 : INFO] - 90 
+[2020-04-17 02:28:27 : INFO] - Successfully optimized the image - /homepages/33/d819694415/htdocs/clickandbuilds/wp-content/uploads/2019/11/identificador-de-llamadas.jpg.The file was compressed from 95.23 KB to 69.37 KB saving 27.16 percent using WP-Optimize 
+[2020-04-17 02:28:27 : INFO] - Completed processing task with ID : 1240, and type 'smush' 
+[2020-04-17 02:28:27 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 02:28:27 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 02:28:27 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-04-17 02:28:27 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 02:28:27 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-04-17 02:38:21 : INFO] - 
+ 
+[2020-04-17 02:38:21 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 02:38:21 +0000 on https://multiserviciosari.com 
+[2020-04-17 02:38:21 : INFO] - WP: 5.4 
+[2020-04-17 02:38:21 : INFO] - PHP: 7.4.4 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-04-17 02:38:21 : INFO] - MySQL: 5.7.28 
+[2020-04-17 02:38:21 : INFO] - WPLANG: es_ES 
+[2020-04-17 02:38:21 : INFO] - Server: Apache 
+[2020-04-17 02:38:21 : INFO] - Outbound connections: N 
+[2020-04-17 02:38:21 : INFO] - safe_mode: 0 
+[2020-04-17 02:38:21 : INFO] - max_execution_time: 50000 
+[2020-04-17 02:38:21 : INFO] - memory_limit: -1 (used: 97.8M | 101M) 
+[2020-04-17 02:38:21 : INFO] - multisite: N 
+[2020-04-17 02:38:21 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-04-17 02:38:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-04-17 02:41:51 : INFO] - Re_Smush_It_Task with attachment ID : 5771, autocreated on : April 17, 2020 02:41:51 
+[2020-04-17 02:42:32 : INFO] - Re_Smush_It_Task with attachment ID : 5772, autocreated on : April 17, 2020 02:42:32 
+[2020-04-17 02:45:00 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:45:29 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:46:54 : INFO] - 
+ 
+[2020-04-17 02:46:54 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 02:46:54 +0000 on https://multiserviciosari.com 
+[2020-04-17 02:46:54 : INFO] - WP: 5.4 
+[2020-04-17 02:46:54 : INFO] - PHP: 7.4.4 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-04-17 02:46:54 : INFO] - MySQL: 5.7.28 
+[2020-04-17 02:46:54 : INFO] - WPLANG: es_ES 
+[2020-04-17 02:46:54 : INFO] - Server: Apache 
+[2020-04-17 02:46:54 : INFO] - Outbound connections: N 
+[2020-04-17 02:46:54 : INFO] - safe_mode: 0 
+[2020-04-17 02:46:54 : INFO] - max_execution_time: 50000 
+[2020-04-17 02:46:54 : INFO] - memory_limit: -1 (used: 97.8M | 101M) 
+[2020-04-17 02:46:54 : INFO] - multisite: N 
+[2020-04-17 02:46:54 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-04-17 02:46:54 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-04-17 02:46:54 : INFO] - Set semaphore last lock (smush) time to 2020-04-17 02:46:54 
+[2020-04-17 02:46:54 : INFO] - Semaphore lock (smush) complete 
+[2020-04-17 02:46:54 : INFO] - Processing task with ID : 1241, and type 'smush' 
+[2020-04-17 02:46:54 : INFO] - Task with ID 1241 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-04-17 02:46:54 : INFO] - Processing task with ID : 1242, and type 'smush' 
+[2020-04-17 02:46:54 : INFO] - Task with ID 1242 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-04-17 02:46:54 : INFO] - Processing task with ID : 1243, and type 'smush' 
+[2020-04-17 02:46:54 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:54 : INFO] - 90 
+[2020-04-17 02:46:56 : INFO] - Backing up the original image - 2019/11/identificador-de-llamadas-updraft-pre-smush-original.jpg 
+[2020-04-17 02:46:56 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:56 : INFO] - 90 
+[2020-04-17 02:46:57 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:57 : INFO] - 90 
+[2020-04-17 02:46:58 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:58 : INFO] - 90 
+[2020-04-17 02:46:58 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:58 : INFO] - 90 
+[2020-04-17 02:46:59 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:46:59 : INFO] - 90 
+[2020-04-17 02:47:00 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:47:00 : INFO] - 90 
+[2020-04-17 02:47:00 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:47:00 : INFO] - 90 
+[2020-04-17 02:47:01 : INFO] - Re_Smush_It_Task with attachment ID : 5773, autocreated on : April 17, 2020 02:45:00 
+[2020-04-17 02:47:01 : INFO] - 90 
+[2020-04-17 02:47:02 : INFO] - Successfully optimized the image - /homepages/33/d819694415/htdocs/clickandbuilds/wp-content/uploads/2019/11/identificador-de-llamadas.jpg.The file was compressed from 95.23 KB to 69.37 KB saving 27.16 percent using WP-Optimize 
+[2020-04-17 02:47:02 : INFO] - Completed processing task with ID : 1243, and type 'smush' 
+[2020-04-17 02:47:02 : INFO] - Processing task with ID : 1244, and type 'smush' 
+[2020-04-17 02:47:02 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:02 : INFO] - 90 
+[2020-04-17 02:47:03 : INFO] - Backing up the original image - 2019/11/identificador-de-llamada-updraft-pre-smush-original.jpg 
+[2020-04-17 02:47:03 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:03 : INFO] - 90 
+[2020-04-17 02:47:04 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:04 : INFO] - 90 
+[2020-04-17 02:47:05 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:05 : INFO] - 90 
+[2020-04-17 02:47:06 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:06 : INFO] - 90 
+[2020-04-17 02:47:07 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:07 : INFO] - 90 
+[2020-04-17 02:47:07 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:07 : INFO] - 90 
+[2020-04-17 02:47:08 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:08 : INFO] - 90 
+[2020-04-17 02:47:09 : INFO] - Re_Smush_It_Task with attachment ID : 5774, autocreated on : April 17, 2020 02:45:29 
+[2020-04-17 02:47:09 : INFO] - 90 
+[2020-04-17 02:47:09 : INFO] - Successfully optimized the image - /homepages/33/d819694415/htdocs/clickandbuilds/wp-content/uploads/2019/11/identificador-de-llamada.jpg.The file was compressed from 95.23 KB to 69.37 KB saving 27.16 percent using WP-Optimize 
+[2020-04-17 02:47:09 : INFO] - Completed processing task with ID : 1244, and type 'smush' 
+[2020-04-17 02:47:09 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-04-17 02:47:09 : INFO] - Semaphore (smush) unlocked 
+[2020-04-17 02:47:09 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2020-04-17 02:47:09 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-04-17 02:47:09 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2020-04-17 02:56:55 : INFO] - 
+ 
+[2020-04-17 02:56:55 : INFO] - Header for logs at time:  Fri, 17 Apr 2020 02:56:55 +0000 on https://multiserviciosari.com 
+[2020-04-17 02:56:55 : INFO] - WP: 5.4 
+[2020-04-17 02:56:55 : INFO] - PHP: 7.4.4 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-04-17 02:56:55 : INFO] - MySQL: 5.7.28 
+[2020-04-17 02:56:55 : INFO] - WPLANG: es_ES 
+[2020-04-17 02:56:55 : INFO] - Server: Apache 
+[2020-04-17 02:56:55 : INFO] - Outbound connections: N 
+[2020-04-17 02:56:55 : INFO] - safe_mode: 0 
+[2020-04-17 02:56:55 : INFO] - max_execution_time: 50000 
+[2020-04-17 02:56:55 : INFO] - memory_limit: -1 (used: 97.8M | 101M) 
+[2020-04-17 02:56:55 : INFO] - multisite: N 
+[2020-04-17 02:56:55 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-04-17 02:56:55 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

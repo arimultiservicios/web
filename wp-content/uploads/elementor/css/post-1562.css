@@ -1,0 +1,32 @@
+.elementor-1562 .elementor-element.elementor-element-7eca7acb > .elementor-container {max-width: 740px;min-height: 100vh;}
+.elementor-1562 .elementor-element.elementor-element-7eca7acb > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-1562 .elementor-element.elementor-element-7eca7acb > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-1562 .elementor-element.elementor-element-7eca7acb:not(.elementor-motion-effects-element-type-background), .elementor-1562 .elementor-element.elementor-element-7eca7acb > .elementor-motion-effects-container > .elementor-motion-effects-layer {background: url("https://www.multiserviciosari.ml/wp-content/uploads/2019/03/air-1.jpg") 50% 50%;background-size: cover;}
+.elementor-1562 .elementor-element.elementor-element-7eca7acb > .elementor-background-overlay {background-color: #000;opacity: .4;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-1562 .elementor-element.elementor-element-7eca7acb {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-1562 .elementor-element.elementor-element-f6c061e {text-align: center;}
+.elementor-1562 .elementor-element.elementor-element-f6c061e .elementor-heading-title {color: #f70041;font-family: "Aclonica",Sans-serif;}
+.elementor-1562 .elementor-element.elementor-element-6803bbf3 {text-align: center;}
+.elementor-1562 .elementor-element.elementor-element-6803bbf3 .elementor-heading-title {color: #fff;font-size: 92px;font-weight: bold;text-transform: uppercase;}
+.elementor-1562 .elementor-element.elementor-element-2641dd8 {text-align: center;}
+.elementor-1562 .elementor-element.elementor-element-2641dd8 .elementor-heading-title {color: #fff;font-size: 26px;}
+.elementor-1562 .elementor-element.elementor-element-58ab832a {--divider-border-style: solid;--divider-border-color: rgba(255,255,255,.35);--divider-border-width: 3px;}
+.elementor-1562 .elementor-element.elementor-element-58ab832a .elementor-divider-separator {width: 60px;margin: 0 auto;margin-center: 0;}
+.elementor-1562 .elementor-element.elementor-element-58ab832a .elementor-divider {text-align: center;padding-top: 30px;padding-bottom: 30px;}
+.elementor-1562 .elementor-element.elementor-element-f0116a4 {text-align: center;}
+.elementor-1562 .elementor-element.elementor-element-f0116a4 .elementor-heading-title {color: #fff;font-size: 16px;font-weight: normal;}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__container {min-height: 55px;}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__submit {min-width: 55px;}
+body:not(.rtl) .elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__icon {padding-left: calc(55px / 3);}
+body.rtl .elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__icon {padding-right: calc(55px / 3);}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__input, .elementor-1562 .elementor-element.elementor-element-5b0dff09.elementor-search-form--button-type-text .elementor-search-form__submit {padding-left: calc(55px / 3);padding-right: calc(55px / 3);}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__input, .elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-search-form__icon, .elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-lightbox .dialog-lightbox-close-button, .elementor-1562 .elementor-element.elementor-element-5b0dff09 .elementor-lightbox .dialog-lightbox-close-button:hover, .elementor-1562 .elementor-element.elementor-element-5b0dff09.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input {color: #fff;}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09:not(.elementor-search-form--skin-full_screen) .elementor-search-form__container {background-color: rgba(255,255,255,0);border-color: #fff;border-width: 2px 2px 2px 2px;border-radius: 200px;}
+.elementor-1562 .elementor-element.elementor-element-5b0dff09.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input {background-color: rgba(255,255,255,0);border-color: #fff;border-width: 2px 2px 2px 2px;border-radius: 200px;}
+body.elementor-page-1562 h1.entry-title, .elementor-page-title {display: none;}
+@media (max-width:1024px) {.elementor-1562 .elementor-element.elementor-element-6803bbf3 .elementor-heading-title {font-size: 70px;}
+	.elementor-1562 .elementor-element.elementor-element-2641dd8 .elementor-heading-title {font-size: 20px;}
+	.elementor-1562 .elementor-element.elementor-element-58ab832a .elementor-divider {padding-top: 12px;padding-bottom: 12px;}}
+@media (max-width:767px) {.elementor-1562 .elementor-element.elementor-element-6803bbf3 .elementor-heading-title {font-size: 40px;}
+	.elementor-1562 .elementor-element.elementor-element-2641dd8 .elementor-heading-title {font-size: 18px;line-height: 25px;}
+	.elementor-1562 .elementor-element.elementor-element-f0116a4 .elementor-heading-title {font-size: 14px;line-height: 20px;}}
